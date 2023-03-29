@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋🏻, I'm Lucas Araldi
+Hi 👋🏻, I'm Lucas Araldi ! 
+I am a web developer with a passion for creating innovative and elegant solutions to real-world problems. I am constantly learning and seeking to improve my skills to deliver the best possible results for my clients.
 
 
 ## 🌐 Socials:
